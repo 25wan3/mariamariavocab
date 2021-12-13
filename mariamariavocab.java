@@ -14,7 +14,7 @@ public class mariamariavocab {
 		word agradecer = new word("Agradecer", "to give thanks", new ArrayList<word>(Arrays.asList(
 				acercarse, agarrar
 		)));
-		word alistarse = new word("Alistarse", "to enlist", new ArrayList<word>(Arrays.asList(
+		word alistarse = new word("Alistarse", "to get ready", new ArrayList<word>(Arrays.asList(
 				agarrar
 		)));
 		word alquilar = new word("Alquilar", "to rent/rent out", new ArrayList<word>(Arrays.asList(
