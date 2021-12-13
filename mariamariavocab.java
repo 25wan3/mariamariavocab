@@ -127,6 +127,7 @@ public class mariamariavocab {
 				System.out.print(b.vocab + ", ");
 			}
 			System.out.println();
+			System.out.println();
 		}
 	}
 
