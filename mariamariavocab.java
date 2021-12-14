@@ -59,11 +59,11 @@ public class mariamariavocab {
 		word ruido = new word("El Ruido", "noise", new ArrayList<word>(Arrays.asList(
 				agradecer, cantidad, oír
 		)));
-		word sufrir = new word("Sufrir", "to suffer", new ArrayList<word>(Arrays.asList(
-				agradecer, asegurar, lágrima, llenar, mostrar, oír, orgulloso
-		)));
 		word soltar = new word("Soltar", "to let go, to drop", new ArrayList<word>(Arrays.asList(
 				acercarse, agarrar, asegurar, brisa, llenar, mostrar, oír
+		)));
+		word sufrir = new word("Sufrir", "to suffer", new ArrayList<word>(Arrays.asList(
+				agradecer, asegurar, lágrima, llenar, mostrar, oír, orgulloso
 		)));
 		
 		mariamaria.add(acercarse);
@@ -84,8 +84,8 @@ public class mariamariavocab {
 		mariamaria.add(orgulloso);
 		mariamaria.add(prometer);
 		mariamaria.add(ruido);
-		mariamaria.add(sufrir);
 		mariamaria.add(soltar);
+		mariamaria.add(sufrir);
 		
 		for(int i = 0; i < mariamaria.words.size(); i++) {
 			for(int j = 0; j < mariamaria.words.size(); j++) {
