@@ -71,6 +71,7 @@ public class mariamariavocab {
 		mariamaria.add(agradecer);
 		mariamaria.add(alistarse);
 		mariamaria.add(alquilar);
+		mariamaria.add(asegurar);
 		mariamaria.add(brisa);
 		mariamaria.add(caer);
 		mariamaria.add(cantidad);
